@@ -172,13 +172,20 @@ http://www.google.com
 
 ### ??for image
 
-![alt name](./images/usain.jpg)  
+![alt name](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Client-server-model.svg/1200px-Client-server-model.svg.png)
+
+| name | age | roll |
+|---- | ---- | ----|
+|apple | ninten| 001|
+|rubel | twenty | 002|
+| sakil | eighteen| 003|
+|noman|twenty|006|
 
 |Name| age| roll|
 
 |----|----|----|
 
-|apple|nineten|001|
+||nineten|001|
 
 |rubel|nineten|002|
 
